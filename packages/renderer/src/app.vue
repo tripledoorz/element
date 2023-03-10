@@ -123,7 +123,7 @@ import { Form as FormilyForm } from '@formily/element'
 GlobalRegistry.registerDesignerLocales({
   'zh-CN': {
     sources: {
-      Inputs: '输入控件',
+      Inputs: '输入控件 测试',
       Layouts: '布局组件',
       Arrays: '自增组件',
       Displays: '展示组件',

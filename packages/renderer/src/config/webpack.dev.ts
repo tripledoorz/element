@@ -46,7 +46,7 @@ export default {
     // new BundleAnalyzerPlugin()
   ],
   devServer: {
-    host: '127.0.0.1',
+    host: '172.17.110.65',
     open: true,
     port: PORT,
   },
